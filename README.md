@@ -1,0 +1,1 @@
+The main file is the main.py and the whole project is on Object Oriented Programming concept. The data.txt file has the highscore of the game which will be updated whenever anyone crosses the previous high score.
